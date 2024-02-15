@@ -1,6 +1,7 @@
 {
   "name": "iconic-calc-app",
   "version": "0.1.0",
+  "homepage": "https://alfiemitchell-azoff.github.io/ISRC_Calculator/",
   "private": true,
   "scripts": {
     "dev": "next dev",
